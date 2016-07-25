@@ -40,3 +40,7 @@
 - Реализуйте класс `ArrayStorage`: хранение резюме на основе массива (методы `clear, get, save, delete, getAll, size`).
 - Протестируйте вашу реализацию, запустив `MainTestArrayStorage.main()`: в IDEA слева на полях зеленая стрелка.
 - Протестируйте вашу реализацию интерактивно с помощью `MainArray.main()`.
+
+## Зарегистрироваться для выбора подходящего курса:
+https://java.autoweboffice.ru/?r=ordering/cart/as1&id=3&clean=true&lg=ru
+
