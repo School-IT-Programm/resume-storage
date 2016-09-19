@@ -1,4 +1,10 @@
-## <a href="http://java.u-rise.com/">4-х месячный Онлайн Курс по Java SE с собственным проектом на выходе</a>
+## [Программа курса](Program.md)
+
+### Обзор проекта. Обучение Java. Выбор курса.
+[![Видео вступительного занятия](https://img.youtube.com/vi/rUUhWUpzpUM/0.jpg)](https://www.youtube.com/watch?v=rUUhWUpzpUM)
+
+- <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/">Java Tools and Technologies Landscape Report 2016</a>
+- <a href="http://gkislin.ru/ru/cv.html">Резюме преподавателя Кислина Григория</a>
 
 # Вступительное занятие
 
@@ -31,5 +37,5 @@
 ![image](https://cloud.githubusercontent.com/assets/18701152/15710172/6cb15a66-2811-11e6-8739-4e289d1ea799.png)
 
 - Реализуйте класс `ArrayStorage`: хранение резюме на основе массива (методы `clear, get, save, delete, getAll, size`).
-- Протестируйте реализацию, запустив `MainTestArrayStorage.main()`: в IDEA слева на полях зеленая стрелка.
-- Протестируйте реализацию интерактивно с помощью `ReplTestArrayStorage.main()`.
+- Протестируйте вашу реализацию, запустив `MainTestArrayStorage.main()`: в IDEA слева на полях зеленая стрелка.
+- Протестируйте вашу реализацию интерактивно с помощью `MainArray.main()`.
